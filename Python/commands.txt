@@ -1,0 +1,1 @@
+libFM -task r -train train -test test -dim "1,1,8" -iter 100 -method mcmc -validation valid -out test.pred -verbosity 1 -cache_size 1000000000

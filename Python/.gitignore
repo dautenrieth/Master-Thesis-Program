@@ -1,0 +1,11 @@
+dataset/
+Proposal/
+__pycache__/
+saves/
+log.txt
+config.ini
+runs.xlsx
+Runs.xlsx
+neg_samples.txt
+groups.groups
+~$Runs.xlsx

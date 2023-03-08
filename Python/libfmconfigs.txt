@@ -1,0 +1,1 @@
+libFM -task r -train train.libfm -test test.libfm -dim "1,1,8" -iter 20 -method mcmc -learn_rate 0.01 -init_stdev 0.1 -validation valid.libfm -out test.pred -verbosity 1
